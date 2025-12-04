@@ -5,7 +5,7 @@ import lombok.AllArgsConstructor;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
-@Component
+//@Component
 @AllArgsConstructor
 public class CommandLineAppStartupRunner implements CommandLineRunner {
 
